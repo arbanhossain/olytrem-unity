@@ -1,0 +1,6 @@
+This is "Arban" License.
+
+**Adaption and Modification -- It means you can do anything with this piece of software. The developer cannot retain the freedom.
+**Distribution -- Direct distributions aren't allowed. Distribute it like however you want, but decent modifications should be made so that it doesn't look like a garbage clone.
+
+By using this piece of program, you agree to the above terms.
